@@ -1,17 +1,3 @@
-/*
-STUDENT NAME: Trung Tin Le                           CS-22 Data Structures and Algorithms
-SEMESTER: Spring 2022                                       PROFESSOR THURSTON
-SECTION: 333778
-ASSIGNMENT #10
--------------------------------------------------------------------------------------------
-Instructions
--------------------------------------------------------------------------------------------
-[COPY FROM CANVAS]
-
-
-*/
-
-
 #include<iostream>
 #include<fstream>
 #include<string.h>
